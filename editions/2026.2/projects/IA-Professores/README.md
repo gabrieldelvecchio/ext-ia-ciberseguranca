@@ -101,3 +101,34 @@ A palestra é composta por **21 slides**, estruturados e divididos entre os memb
 - **MIAO, Fengchun; HOLMES, Wayne.** *Guia para a IA generativa na educação e na pesquisa*. Paris: UNESCO, 2023.
 - **BRASIL.** *Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)*. Brasília, DF, 2018.
 - **AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS — ANPD.** *Enunciado CD/ANPD nº 1, de 22 de maio de 2023*. Dispõe sobre o tratamento de dados pessoais de crianças e adolescentes.
+
+- ---
+
+## Primeira Aplicação — Registro e Análise
+
+### Contexto da Aplicação
+- **Data ou período:** <20/10/2026>
+- **Local/contexto:** <Escola Estatudal Celestino de Campos/ Palestra presencial>
+- **Público atendido:** <Professores do ensino fundamental>
+- **Número aproximado de participantes:** <38 participantes>
+- **Duração efetiva:** <1h30 dividida em duas palestras de 30 min para 2 grupos de professores.>
+
+### O que Aconteceu e o que Aprendemos
+<Escreva aqui a análise da primeira experiência. Destaque o que funcionou bem, o que não funcionou e o que surpreendeu o grupo. Use exemplos concretos e evite dizer apenas que "foi um sucesso".>
+
+### Evidências e Feedback
+<Apresente os resultados dos questionários ou observações colhidas. Informe quantas pessoas responderam e mencione limitações da coleta sem publicar dados pessoais dos participantes.>
+
+---
+
+## Plano de Aprimoramento para a Segunda Aplicação
+
+| Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
+| :--- | :--- | :--- |
+| <Na nossa primeira aplicação, fizemos a oficina para dois grupos de professores. O primeiro grupo foi mais engajador, houve perguntas durante a palestra a respeito, sobretudo, da anonimização dos dados de alunos e da escola. Os professores dessa primeira rodada relataram que utilizam IA para a produção de relatórios de desenvolvimento de aprendizado dos alunos e, muitas vezes, durante a produção desses não há o devido cuidado com dados sensíveis dos alunos. Quando foi oferecido a palestra para o segundo grupo, os profissionais demonstraram-se um pouco desinteressados e apáticos. Nesse sentido, apenas fizemos a palestra com muita pouca interação e intervenção por partes desses profissionais da segunda rodada. > | <Estamos pensando para a segunda oficina em realizar uma dinâmica (ainda a ser projetada), visando maior interação entre nós e o público que estamos atendendo. O principal objetivo é tornar essa segunda oficina uma transmissão de conhecimento menos vertical, priorizando troca de experiências e vivências entre nós e os professores.> | <Esperamos melhorar a comunicação e transmissão do conhecimento pra os professores. Almejamos a interação mais intensa entre nós e os professores, visando atender uma das principais metas da atividade extensionista: a troca de conhecimento entre a comunidade e a universidade.> |
+| <O que foi observado na 1ª aplicação> | <O que será modificado> | <O que se espera melhorar> |
+
+### Preparação da Segunda Aplicação
+- **Situação da segunda aplicação:** <Estamos com contato com a professora coordenadora da escola que trabalha na E.E Professora Maria Colevati Rodrigues para marcar a segunda oficina no período estipulado para realização da segunda aplicação.>
+- **Pendências prioritárias:** <Confirmar disponibilidade da escola  para nos receber e produção da dinâmica>
+- **Como verificaremos as melhorias:** <ainda nao sei>
