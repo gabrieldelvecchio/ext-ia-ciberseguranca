@@ -107,11 +107,11 @@ A palestra é composta por **21 slides**, estruturados e divididos entre os memb
 ## Primeira Aplicação — Registro e Análise
 
 ### Contexto da Aplicação
-- **Data ou período:** <20/10/2026>
-- **Local/contexto:** <Escola Estatudal Celestino de Campos / Palestra presencial>
-- **Público atendido:** <Professores do ensino fundamental 1 da rede estadual>
-- **Número aproximado de participantes:** <38 participantes>
-- **Duração efetiva:** <1h30 dividida em duas palestras de 30 min para 2 grupos de professores.>
+- **Data ou período:** 20/10/2026
+- **Local/contexto:** Escola Estatudal Celestino de Campos / Palestra presencial
+- **Público atendido:** Professores do ensino fundamental 1 da rede estadual
+- **Número aproximado de participantes:** 32 participantes
+- **Duração efetiva:** 1h30 dividida em duas palestras de 30 min para 2 grupos de professores.
 
 ### O que Aconteceu e o que Aprendemos
 Apresentamos a palestra para dois grupos de professores durante o horário de formação de ATPC. Cada sessão durou cerca de 30 minutos, em razão do tempo restrito dessas reuniões. A oficina ocorreu de forma presencial, em formato de apresentação de slides, com a divisão dos tópicos entre os membros do grupo. Abordamos o conceito de extensão universitária e contextualizamos o motivo de estarmos ali. Em seguida, definimos o que é Inteligência Artificial e demonstramos como utilizá-la para a confecção de materiais digitais, atividades e conteúdos lúdicos, além da adaptação de atividades prévias para outros contextos de ensino. Também discutimos o uso adequado e seguro da IA, ensinando como inseri-la no contexto da educação inclusiva e alertando sobre o perigo de expor dados sensíveis de alunos e professores. Acreditávamos que a produção de materiais educativos seria o tema de maior interesse para a realidade educacional daquele público. Porém, para o primeiro grupo, que demonstrou maior engajamento e fez mais perguntas, a parte essencial foi a elaboração de relatórios. Muitos relataram o uso rotineiro da IA para esse fim, mas admitiram inserir dados reais, como nomes de alunos, da escola e dos próprios docentes. Assim, a sessão sobre segurança de dados e preservação da privacidade tornou-se o ponto alto. Também os instruímos sobre como desativar a opção do ChatGPT que utiliza os dados da conversa para treinar o modelo. Em contrapartida, o segundo grupo demonstrou menos engajamento, com poucas perguntas durante e ao final da apresentação. Percebemos um clima de menor receptividade por parte do grupo, o que dificultou a flexibilização do roteiro e a construção de um ambiente mais propício ao diálogo. Julgamos que o conhecimento foi devidamente transmitido, mas não foi possível definir com clareza qual parte da oficina foi mais relevante para eles. A principal lição dessa primeira experiência é a necessidade de repensar o formato. Para as próximas aplicações, buscaremos transformar a apresentação em uma oficina menos expositiva e mais interativa, priorizando a transmissão e troca de vivências de maneira horizontal.
@@ -132,4 +132,4 @@ O segundo formulário e seu resultados
 ### Preparação da Segunda Aplicação
 - **Situação da segunda aplicação:** Estamos com contato com a professora coordenadora da escola que trabalha na E.E Professora Maria Colevati Rodrigues para marcar a segunda oficina no período estipulado para realização da segunda aplicação. O dia estipulado pela professora é dia 17/11, terça feira, das 12h20 até as 13h.
 - **Pendências prioritárias:** Desenvolvimento da nova dinâmica e idealizar uma maneira de deixar mais interativa realizar palestra/oficina.
-- **Como verificaremos as melhorias:** <Formulário, perguntas aos professores envolvidos nessa segunda aplicação.)>
+- **Como verificaremos as melhorias:** Formulário, perguntas aos professores envolvidos nessa segunda aplicação.
