@@ -61,10 +61,10 @@ A palestra é composta por **21 slides**, estruturados e divididos entre os memb
 
 | Bloco Temático | Intervalo de Slides | Conteúdo e Abordagem | Responsável |
 | :--- | :---: | :--- | :--- |
-| **Introdução & Contexto** | Slides 01 – 06 | Apresentação do projeto LEXIS, pergunta central e conceitos introdutórios de IA generativa no EF I. | `Yann` |
-| **Engenharia de Prompt** | Slides 07 – 12 | Como formular solicitações eficientes: contexto, objetivo, público-alvo, formato e restrições. | `Elisa e Gabriel` |
-| **Boas Práticas e Cuidados** | Slides 13 – 17 | Alucinações, erros, vieses, revisão pedagógica humana e privacidade de dados dos alunos (LGPD). | `Ackson` |
-| **Fechamento e Chamada à Ação** | Slides 18 – 21 | Síntese das recomendações, incentivo ao uso consciente da IA e orientações para uso do material de apoio.|  `Johatan` |
+| **Introdução & Contexto** | Slides 01 – 06 | Apresentação do projeto LEXIS, pergunta central e conceitos introdutórios de IA generativa no EF I. | Yann |
+| **Engenharia de Prompt** | Slides 07 – 12 | Como formular solicitações eficientes: contexto, objetivo, público-alvo, formato e restrições. | Elisa e Gabriel |
+| **Boas Práticas e Cuidados** | Slides 13 – 17 | Alucinações, erros, vieses, revisão pedagógica humana e privacidade de dados dos alunos (LGPD). | Ackson |
+| **Fechamento e Chamada à Ação** | Slides 18 – 21 | Síntese das recomendações, incentivo ao uso consciente da IA e orientações para uso do material de apoio.|  Johatan |
 
 ---
 
