@@ -119,17 +119,19 @@ Apresentamos a palestra para dois grupos de professores durante o horário de fo
   A principal lição dessa primeira experiência é a necessidade de repensar o formato. Para as próximas aplicações, buscaremos transformar a apresentação em uma oficina menos expositiva e mais interativa, priorizando a transmissão e troca de vivências de maneira horizontal.
 
 ### Evidências e Feedback
-Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. As perguntas iniciais realizadas podem ser visualizadas por meio do link a seguir: 
+Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. 
+
+**As perguntas iniciais realizadas podem ser visualizadas por meio do link a seguir:** 
 
 https://docs.google.com/forms/d/e/1FAIpQLSfVxa5vaCESgtoOpHu1qVy7ppFUPwYMAPYR74qyj-NAXzg3Sw/viewform
 
- As perguntas finais realizadas podem ser visualizadas por meio do link a seguir: 
+ **As perguntas finais realizadas podem ser visualizadas por meio do link a seguir:** 
 
 https://docs.google.com/forms/d/e/1FAIpQLSdOLP4RHm1jl69yq5PMJLT6RHlmJQW_xLo-HCWvjSAGRpXa1w/viewform?usp=header
 
 
 
-OS dados a seguir refere-se ao formulário inicial colhido durante a aplicação da oficina:
+Os dados a seguir refere-se ao **formulário inicial** colhido durante a aplicação da oficina:
 
 
 <img width="756" height="390" alt="image" src="https://github.com/user-attachments/assets/05216f17-2c4c-4d03-9de0-9f84d1626b13" />
@@ -143,7 +145,7 @@ A criação de materiais didáticos inovadores e a personalização da aprendiza
 <img width="757" height="337" alt="image" src="https://github.com/user-attachments/assets/a794ee78-3760-4290-ad64-167f533cc522" />
 
 
-Os dados a seguir refere-se ao formulário final colhido durante a aplicação da oficina:
+Os dados a seguir refere-se ao **formulário final** colhido durante a aplicação da oficina:
 
 <img width="758" height="376" alt="{4D5044A1-EDC9-4D6F-977F-062C58BF50D8}" src="https://github.com/user-attachments/assets/8b131618-995e-4a4a-a768-02b8433f3ebb" />
 
