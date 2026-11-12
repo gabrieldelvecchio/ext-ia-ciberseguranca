@@ -120,8 +120,7 @@ Apresentamos a palestra para dois grupos de professores durante o horário de fo
 
 ### Evidências e Feedback
 Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. As perguntas realizadas podem ser visualizadas por meio do link a seguir: https://docs.google.com/forms/d/e/1FAIpQLSfVxa5vaCESgtoOpHu1qVy7ppFUPwYMAPYR74qyj-NAXzg3Sw/viewform
-O segundo formulário e seu resultados 
-
+O segundo formulário: https://docs.google.com/forms/d/e/1FAIpQLSdOLP4RHm1jl69yq5PMJLT6RHlmJQW_xLo-HCWvjSAGRpXa1w/viewform?usp=header
 
 ---
 
