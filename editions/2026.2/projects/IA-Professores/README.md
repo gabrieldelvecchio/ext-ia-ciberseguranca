@@ -163,11 +163,12 @@ Há uma forte adesão ao uso futuro da tecnologia: a grande maioria pretende uti
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a0f695cc-c800-44c9-b323-ee2538e4be19" />
 
-uma excelente receptividade entre os docentes, gerando um retorno bastante positivo. Os professores elogiaram a clareza, a linguagem acessível e a atualidade dos temas abordados, destacando a importância dessas publicações para orientar os estudantes sobre segurança digital e manifestando o interesse de utilizá-las em suas práticas pedagógicas e atividades em sala de aula.
+Os materiais educativos do CERT.br tiveram uma excelente receptividade entre os docentes, gerando um retorno bastante positivo. Os professores elogiaram a clareza, a linguagem acessível e a atualidade dos temas abordados, destacando a importância dessas publicações para orientar os estudantes sobre segurança digital e manifestando o interesse de utilizá-las em suas práticas pedagógicas e atividades em sala de aula.
 Os materiais apresentados e selecionados para uso pelos docentes foram os seguintes fascículos:  
 Bullet Inteligência Artificial  
 Bullet Golpes: Caiu? Veja o que Fazer  
 Bullet Vazamento de Dados (produzido em conjunto com a ANPD)  
+
 Com a boa adesão do corpo docente, a expectativa é que essas cartilhas sirvam como ferramentas práticas de apoio para promover debates, prevenir incidentes virtuais e fortalecer a cultura de proteção de dados e cidadania digital no ambiente escolar.
 
 
