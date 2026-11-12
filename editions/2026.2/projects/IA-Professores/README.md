@@ -120,8 +120,9 @@ Apresentamos a palestra para dois grupos de professores durante o horário de fo
 
 ### Evidências e Feedback
 Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. As perguntas realizadas podem ser visualizadas por meio do link a seguir: https://docs.google.com/forms/d/e/1FAIpQLSfVxa5vaCESgtoOpHu1qVy7ppFUPwYMAPYR74qyj-NAXzg3Sw/viewform
+
 O segundo formulário: https://docs.google.com/forms/d/e/1FAIpQLSdOLP4RHm1jl69yq5PMJLT6RHlmJQW_xLo-HCWvjSAGRpXa1w/viewform?usp=header
-OS dados dos seeguintes formulários colhidos durante a aplicação da oficina que foram considerados mais relevantes serão anexados a seguir:
+OS dados a seguir refere-se ao formulário final colhido durante a aplicação da oficina:
 
 Quais dos seguintes desafios da utilização de IA na educação você considera mais preocupantes? 
 <img width="758" height="376" alt="{4D5044A1-EDC9-4D6F-977F-062C58BF50D8}" src="https://github.com/user-attachments/assets/8b131618-995e-4a4a-a768-02b8433f3ebb" />
