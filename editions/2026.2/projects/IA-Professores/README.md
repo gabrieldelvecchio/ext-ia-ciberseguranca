@@ -119,9 +119,12 @@ Apresentamos a palestra para dois grupos de professores durante o horário de fo
   A principal lição dessa primeira experiência é a necessidade de repensar o formato. Para as próximas aplicações, buscaremos transformar a apresentação em uma oficina menos expositiva e mais interativa, priorizando a transmissão e troca de vivências de maneira horizontal.
 
 ### Evidências e Feedback
-Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. As perguntas realizadas podem ser visualizadas por meio do link a seguir: https://docs.google.com/forms/d/e/1FAIpQLSfVxa5vaCESgtoOpHu1qVy7ppFUPwYMAPYR74qyj-NAXzg3Sw/viewform
+Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. As perguntas realizadas podem ser visualizadas por meio do link a seguir: 
+
+https://docs.google.com/forms/d/e/1FAIpQLSfVxa5vaCESgtoOpHu1qVy7ppFUPwYMAPYR74qyj-NAXzg3Sw/viewform
 
 O segundo formulário: https://docs.google.com/forms/d/e/1FAIpQLSdOLP4RHm1jl69yq5PMJLT6RHlmJQW_xLo-HCWvjSAGRpXa1w/viewform?usp=header
+
 OS dados a seguir refere-se ao formulário final colhido durante a aplicação da oficina:
 
 Quais dos seguintes desafios da utilização de IA na educação você considera mais preocupantes? 
@@ -136,6 +139,20 @@ O médio potencial predomina em todas as categorias avaliadas. As tarefas de "Co
 <img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/476e8d74-e0fb-497c-bdda-27fca91bda28" />
 
 Há uma forte adesão ao uso futuro da tecnologia: a grande maioria pretende utilizá-la semanalmente (48,3%) ou diariamente (34,5%). A soma dessas duas categorias indica que mais de 80% dos respondentes planejam integrar a IA de forma recorrente em suas rotinas.
+
+OS dados a seguir refere-se ao formulário inicial colhido durante a aplicação da oficina:
+
+
+<img width="756" height="390" alt="image" src="https://github.com/user-attachments/assets/05216f17-2c4c-4d03-9de0-9f84d1626b13" />
+
+As respostas estão bem distribuídas, indicando uma autopercepção moderada. Os maiores picos concentram-se nos níveis 5 e 7 (ambos com 24,1%), mostrando que a maioria dos participantes se sente intermediariamente preparada, com poucos extremos nos níveis mais altos (9 e 10).
+
+<img width="754" height="371" alt="image" src="https://github.com/user-attachments/assets/7189e934-a099-4a32-a37a-5c7298950703" />
+
+A criação de materiais didáticos inovadores e a personalização da aprendizagem dos alunos destacam-se fortemente com os maiores índices de alto impacto. Em contrapartida, a eficiência administrativa e burocrática apresenta a maior concentração de avaliações de baixo impacto.   
+
+<img width="757" height="337" alt="image" src="https://github.com/user-attachments/assets/a794ee78-3760-4290-ad64-167f533cc522" />
+
 
 
 
