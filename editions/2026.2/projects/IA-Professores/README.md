@@ -125,9 +125,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfVxa5vaCESgtoOpHu1qVy7ppFUPwYMAPYR74qy
 
 O segundo formulário: https://docs.google.com/forms/d/e/1FAIpQLSdOLP4RHm1jl69yq5PMJLT6RHlmJQW_xLo-HCWvjSAGRpXa1w/viewform?usp=header
 
-OS dados a seguir refere-se ao formulário final colhido durante a aplicação da oficina:
+Os dados a seguir refere-se ao formulário final colhido durante a aplicação da oficina:
 
-Quais dos seguintes desafios da utilização de IA na educação você considera mais preocupantes? 
 <img width="758" height="376" alt="{4D5044A1-EDC9-4D6F-977F-062C58BF50D8}" src="https://github.com/user-attachments/assets/8b131618-995e-4a4a-a768-02b8433f3ebb" />
 
 A privacidade e segurança dos dados (58,6%) e a dependência tecnológica/perda de habilidades críticas (51,7%) são, de longe, as maiores preocupações dos participantes. Questões como plágio aparecem em segundo plano (37,9%), enquanto o viés algorítmico e a desigualdade de acesso geraram menor preocupação direta.
