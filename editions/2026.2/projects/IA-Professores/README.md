@@ -125,12 +125,15 @@ OS dados dos seeguintes formulários colhidos durante a aplicação da oficina q
 
 Quais dos seguintes desafios da utilização de IA na educação você considera mais preocupantes? 
 <img width="758" height="376" alt="{4D5044A1-EDC9-4D6F-977F-062C58BF50D8}" src="https://github.com/user-attachments/assets/8b131618-995e-4a4a-a768-02b8433f3ebb" />
+
 A privacidade e segurança dos dados (58,6%) e a dependência tecnológica/perda de habilidades críticas (51,7%) são, de longe, as maiores preocupações dos participantes. Questões como plágio aparecem em segundo plano (37,9%), enquanto o viés algorítmico e a desigualdade de acesso geraram menor preocupação direta.
 
 <img width="758" height="358" alt="image" src="https://github.com/user-attachments/assets/c1a5622e-801c-4fe9-9e21-8ddc9c3ba501" />
+
 O médio potencial predomina em todas as categorias avaliadas. As tarefas de "Correção de textos e atividades" e "Criação de exercícios e avaliações" concentram as maiores avaliações de potencial moderado, enquanto "Elaboração de planos de aula" e "Pesquisa de referências bibliográficas" dividem-se de forma mais equilibrada entre médio e alto potencial.
 
 <img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/476e8d74-e0fb-497c-bdda-27fca91bda28" />
+
 Há uma forte adesão ao uso futuro da tecnologia: a grande maioria pretende utilizá-la semanalmente (48,3%) ou diariamente (34,5%). A soma dessas duas categorias indica que mais de 80% dos respondentes planejam integrar a IA de forma recorrente em suas rotinas.
 
 
