@@ -119,25 +119,15 @@ Apresentamos a palestra para dois grupos de professores durante o horário de fo
   A principal lição dessa primeira experiência é a necessidade de repensar o formato. Para as próximas aplicações, buscaremos transformar a apresentação em uma oficina menos expositiva e mais interativa, priorizando a transmissão e troca de vivências de maneira horizontal.
 
 ### Evidências e Feedback
-Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. As perguntas realizadas podem ser visualizadas por meio do link a seguir: 
+Para medir o quão impactante fomos elaboramos formulários para serem respondidos anteriormente e posteriormente em cada palestra. O conteúdo sobre o primeiro formulário era uma série de questionamentos sobre o preparo e quanto os profissionais estão usando inteligências artificiais no exercício de suas profissões. As perguntas iniciais realizadas podem ser visualizadas por meio do link a seguir: 
 
 https://docs.google.com/forms/d/e/1FAIpQLSfVxa5vaCESgtoOpHu1qVy7ppFUPwYMAPYR74qyj-NAXzg3Sw/viewform
 
-O segundo formulário: https://docs.google.com/forms/d/e/1FAIpQLSdOLP4RHm1jl69yq5PMJLT6RHlmJQW_xLo-HCWvjSAGRpXa1w/viewform?usp=header
+ As perguntas finais realizadas podem ser visualizadas por meio do link a seguir: 
 
-Os dados a seguir refere-se ao formulário final colhido durante a aplicação da oficina:
+https://docs.google.com/forms/d/e/1FAIpQLSdOLP4RHm1jl69yq5PMJLT6RHlmJQW_xLo-HCWvjSAGRpXa1w/viewform?usp=header
 
-<img width="758" height="376" alt="{4D5044A1-EDC9-4D6F-977F-062C58BF50D8}" src="https://github.com/user-attachments/assets/8b131618-995e-4a4a-a768-02b8433f3ebb" />
 
-A privacidade e segurança dos dados (58,6%) e a dependência tecnológica/perda de habilidades críticas (51,7%) são, de longe, as maiores preocupações dos participantes. Questões como plágio aparecem em segundo plano (37,9%), enquanto o viés algorítmico e a desigualdade de acesso geraram menor preocupação direta.
-
-<img width="758" height="358" alt="image" src="https://github.com/user-attachments/assets/c1a5622e-801c-4fe9-9e21-8ddc9c3ba501" />
-
-O médio potencial predomina em todas as categorias avaliadas. As tarefas de "Correção de textos e atividades" e "Criação de exercícios e avaliações" concentram as maiores avaliações de potencial moderado, enquanto "Elaboração de planos de aula" e "Pesquisa de referências bibliográficas" dividem-se de forma mais equilibrada entre médio e alto potencial.
-
-<img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/476e8d74-e0fb-497c-bdda-27fca91bda28" />
-
-Há uma forte adesão ao uso futuro da tecnologia: a grande maioria pretende utilizá-la semanalmente (48,3%) ou diariamente (34,5%). A soma dessas duas categorias indica que mais de 80% dos respondentes planejam integrar a IA de forma recorrente em suas rotinas.
 
 OS dados a seguir refere-se ao formulário inicial colhido durante a aplicação da oficina:
 
@@ -152,6 +142,20 @@ A criação de materiais didáticos inovadores e a personalização da aprendiza
 
 <img width="757" height="337" alt="image" src="https://github.com/user-attachments/assets/a794ee78-3760-4290-ad64-167f533cc522" />
 
+
+Os dados a seguir refere-se ao formulário final colhido durante a aplicação da oficina:
+
+<img width="758" height="376" alt="{4D5044A1-EDC9-4D6F-977F-062C58BF50D8}" src="https://github.com/user-attachments/assets/8b131618-995e-4a4a-a768-02b8433f3ebb" />
+
+A privacidade e segurança dos dados (58,6%) e a dependência tecnológica/perda de habilidades críticas (51,7%) são, de longe, as maiores preocupações dos participantes. Questões como plágio aparecem em segundo plano (37,9%), enquanto o viés algorítmico e a desigualdade de acesso geraram menor preocupação direta.
+
+<img width="758" height="358" alt="image" src="https://github.com/user-attachments/assets/c1a5622e-801c-4fe9-9e21-8ddc9c3ba501" />
+
+O médio potencial predomina em todas as categorias avaliadas. As tarefas de "Correção de textos e atividades" e "Criação de exercícios e avaliações" concentram as maiores avaliações de potencial moderado, enquanto "Elaboração de planos de aula" e "Pesquisa de referências bibliográficas" dividem-se de forma mais equilibrada entre médio e alto potencial.
+
+<img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/476e8d74-e0fb-497c-bdda-27fca91bda28" />
+
+Há uma forte adesão ao uso futuro da tecnologia: a grande maioria pretende utilizá-la semanalmente (48,3%) ou diariamente (34,5%). A soma dessas duas categorias indica que mais de 80% dos respondentes planejam integrar a IA de forma recorrente em suas rotinas.
 
 
 
